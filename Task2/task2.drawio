@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="С4_TO_BE" id="cdTyOiO0CowwobdbE0JV">
+    <mxGraphModel dx="3602" dy="2482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U7liIMEXNtHz71fZCF-q-1" value="Данные об услугах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="U7liIMEXNtHz71fZCF-q-3" target="U7liIMEXNtHz71fZCF-q-4" edge="1">
+          <mxGeometry x="-0.2889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-2" value="Данные об оплатах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="U7liIMEXNtHz71fZCF-q-3" target="U7liIMEXNtHz71fZCF-q-6" edge="1">
+          <mxGeometry x="-0.2" y="5" relative="1" as="geometry">
+            <mxPoint x="220" y="-750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-3" value="Управление клиентами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="-980" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Медицинские сервисы&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="-790" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-5" value="Финансовые&amp;nbsp;&lt;div&gt;данные&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="U7liIMEXNtHz71fZCF-q-6" target="U7liIMEXNtHz71fZCF-q-8" edge="1">
+          <mxGeometry x="0.3043" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-6" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Финансовые операции&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-790" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-7" value="Медицинские&amp;nbsp;&lt;div&gt;данные&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="U7liIMEXNtHz71fZCF-q-8" target="U7liIMEXNtHz71fZCF-q-4" edge="1">
+          <mxGeometry x="-0.32" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7liIMEXNtHz71fZCF-q-8" value="Аналитический центр" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="-580" width="300" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
